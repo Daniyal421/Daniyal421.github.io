@@ -1,0 +1,25 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hi", "hello", "Greetings", "good day", "hey", "what's up", "how is it today?"],
+    "responses": ["Hello!", "Hi,How may I be of service to you today?", "A very splendid hello!"]},
+  
+    {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I am leaving", "Have a Good Day", "bye", "ciao", "see ya"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]},
+  
+    {"tag": "name",
+    "patterns": ["What is your name", "What shall I call you", "what's your name?", "who are you?", "can you tell me who you are?", "name?"],
+    "responses": ["I'm Tenserflight!", "You can call me Tenserflight!", "I'm Tenserflight or you can call me Daniyal's assistant! And yes I do get coffee breaks ,thank you for asking."]},
+  
+    {"tag": "ownerage",
+    "patterns": ["how old", "how old is daniyal", "what is the owner's age", "how old is the creator"],
+    "responses": ["My owner Daniyal is 10 years! But I still plan on supporting him and hope he become's a good man in the future!", "10 years!"]},
+  
+    {"tag": "age",
+    "patterns": ["how old", "how old are you", "what is your age", "how old are you", "age"],
+    "responses": ["I am currently 2 days old!", "2 days!"]},
+  
+    {"tag": "roblox_acc",
+    "patterns": ["What is Daniyal's Roblox account?", "roblox acc?", "What is daniyals roblox acc"],
+    "responses": ["His Roblox Account is DragonThunderbrid! Link:https://web.roblox.com/users/3408988452/profile", "https://web.roblox.com/users/3408988452/profile, His username is DragonThundebird", "https://web.roblox.com/users/3408988452/profile"]}
+  ]}
